@@ -6,7 +6,7 @@ class Card extends Component{
             <div>
                 <img src="" alt="roboPhoto"/>
                 <div>
-                    <h2>Sapele Moses</h2>
+                    <h2>Victor Sapele</h2>
                     <p>oyinkuromosesvictor@gmail.com</p>
                 </div>
             </div>
